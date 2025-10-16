@@ -2,3 +2,4 @@
 Documentación prácticas de laboratorios Electrónica Digital 1
 
 VIDEO EXPLICACIÓN LAB 2: https://youtu.be/VP_NoO33g5c?si=yjMD4RnboSU5ieB6 
+ENLACE PARA LADDER LAB 2: https://app.plcsimulator.online/KwA7OHMdLF24OCGAVU8B 
